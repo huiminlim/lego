@@ -1,5 +1,7 @@
+# Untrack all
 *
 
+# Except thease files
 !.gitignore
 !README.md
 !data.py
